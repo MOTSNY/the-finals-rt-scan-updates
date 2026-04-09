@@ -1,7 +1,7 @@
 {
-  "latestVersion": "1.2.4",
+  "latestVersion": "1.2.5",
   "downloadPageUrl": "https://boosty.to/REPLACE_ME/posts/REPLACE_ME",
-  "expiresAt": "2026-06-01T00:00:00Z",
+  "expiresAt": "2026-04-01T00:00:00Z",
   "graceDays": 3,
   "message": "Доступна новая версия. Открой страницу и скачай актуальную сборку."
 }
