@@ -1,5 +1,6 @@
 {
   "latestVersion": "1.2.5",
   "downloadPageUrl": "https://boosty.to/REPLACE_ME/posts/REPLACE_ME",
-  "message": "Для подписчиков Boosty доступна свежая сборка. Открой пост и скачай актуальную версию."
+  "message": "Для подписчиков Boosty доступна свежая сборка. Открой пост и скачай актуальную версию.",
+  "messageEn": "A fresh build is available for Boosty subscribers. Open the post and download the latest version."
 }
